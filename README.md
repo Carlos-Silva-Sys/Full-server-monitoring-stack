@@ -30,4 +30,15 @@ Este script instala y configura ambos servicios en una sola máquina virtual Deb
 ### 1. Crear el script
 
 ```bash
-nano install.sh
+Crear Archivo:
+nano install-zabbix-grafana.sh
+
+Permisos:
+chmod +x install-zabbix-grafana.sh
+
+Ejecucion:
+sudo ./install-zabbix-grafana.sh
+
+
+
+
