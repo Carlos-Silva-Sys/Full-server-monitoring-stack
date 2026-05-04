@@ -55,12 +55,17 @@ chmod +x install-zabbix-grafana.sh
 Ejecucion:
 sudo ./install-zabbix-grafana.sh
 
-4. Acceder
-Servicio	URL	Usuario	Contraseña (primera vez)
-Zabbix	http://TU-IP/zabbix	Admin	zabbix
-Grafana	http://TU-IP:3000	admin	admin
 
 ```
+
+4. Acceder
+
+| Servicio | URL | Usuario | Contraseña |
+|----------|-----|---------|------------|
+| Zabbix | http://TU-IP/zabbix | Admin | zabbix |
+| Grafana | http://TU-IP:3000 | admin | admin |
+
+
 
 ## 🔧 Pasos después de ejecutar el script
 
