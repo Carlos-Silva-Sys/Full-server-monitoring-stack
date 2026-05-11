@@ -407,6 +407,25 @@ proyecto-monitoreo/
 
 ---
 
+## 📷 Capturas de pantalla
+
+### Dashboard de Grafana con métricas de Proxmox
+
+![Dashboard Proxmox](screenshots/1-Dashboard.png)
+
+### Dashboard de Zabbix
+
+![Zabbix Dashboard](screenshots/2-zabbix.png)
+
+### Alertas por Telegram
+
+![Alertas Telegram](screenshots/3-Telegram.png)
+
+---
+
+> **Nota:** Las capturas muestran el monitoreo funcionando en un entorno de prueba con 3 nodos Proxmox y alertas configuradas por niveles (crítico y no crítico).
+
+
 ## 📝 Autor
 
 Carlos Silva  
